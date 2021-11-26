@@ -1,3 +1,6 @@
+### Custom Screenity version 😈
+-> All credits to Alyssa X for the original work !
+
 # Screenity
 ![Demo](https://media.giphy.com/media/6hc709nFEYnEtzIIyN/giphy.gif)
 <br>
